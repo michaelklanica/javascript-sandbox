@@ -2,7 +2,7 @@
 
 // console.log("test");
 
-// FizzBuzz Exercise
+// HackerRank Sample Test: FizzBuzz Exercise
 function fizzbuzz(n) {
     for (let i = 1; i <= n; i++) {
         if (i % 3 === 0 && i % 5 === 0) {
@@ -21,3 +21,5 @@ function fizzbuzz(n) {
 }
 // FizzBuzz to 100
 fizzbuzz(100);
+
+// HackerRank: 10 Days of Javascript
